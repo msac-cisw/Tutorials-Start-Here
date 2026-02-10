@@ -66,7 +66,7 @@ Once the codespace finishes loading you have two options:
 │       └── index.html
 ├── .devcontainer/
 │   └── devcontainer.json         ← Codespaces configuration
-├── package.json                  ← Simple dev server &amp; formatter
+├── package.json                  ← Simple dev server & formatter
 └── README.md                     ← You are here!
 ```
 
