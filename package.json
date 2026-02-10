@@ -1,0 +1,13 @@
+{
+  "name": "cisw-tutorials",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter template for CISW web tutorials",
+  "scripts": {
+    "start": "npx http-server -p 5500",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.2.0"
+  }
+}
