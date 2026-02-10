@@ -87,7 +87,7 @@ Each tutorial has a matching demo at [cisw17-demos](https://msac-cisw.github.io/
 │   └── py13-hello-flask/
 ├── .devcontainer/
 │   └── devcontainer.json               ← Codespaces configuration
-├── package.json                        ← Simple dev server &amp; formatter
+├── package.json                        ← Simple dev server & formatter
 └── README.md                           ← You are here!
 ```
 
