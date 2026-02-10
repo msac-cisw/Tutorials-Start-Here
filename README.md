@@ -42,22 +42,53 @@ Once the codespace finishes loading you have two options:
 
 ---
 
+## Tutorials
+
+Each tutorial has a matching demo at [cisw17-demos](https://msac-cisw.github.io/cisw17-demos/).
+
+| Folder | Tutorial | Demo |
+|--------|----------|------|
+| `web00-basic-html` | A Basic HTML Page | [demo](https://msac-cisw.github.io/cisw17-demos/demos/web00-basic-html.html) |
+| `web03-happy-sad` | Happy or Sad | [demo](https://msac-cisw.github.io/cisw17-demos/demos/web03-happy-sad.html) |
+| `web04-links` | Links | [demo](https://msac-cisw.github.io/cisw17-demos/demos/web04-links.html) |
+| `web05-custom-homepage` | Custom Homepage | [demo](https://msac-cisw.github.io/cisw17-demos/demos/web05-custom-homepage.html) |
+| `web06-simple-animations` | Simple CSS Animations | [demo](https://msac-cisw.github.io/cisw17-demos/demos/web06-simple-animations.html) |
+| `git-intro` | Intro to Git | [demo](https://msac-cisw.github.io/cisw17-demos/demos/git-intro.html) |
+| `web09-quote-generator` | Random Quote Generator | [demo](https://msac-cisw.github.io/cisw17-demos/demos/web09-quote-generator.html) |
+| `web10-silly-poem` | A Silly Poem | [demo](https://msac-cisw.github.io/cisw17-demos/demos/web10-silly-poem.html) |
+| `web11-rps` | Rock, Paper, Scissors | [demo](https://msac-cisw.github.io/cisw17-demos/demos/web11-rps.html) |
+| `web12-dark-mode` | Toggle Dark Mode | [demo](https://msac-cisw.github.io/cisw17-demos/demos/web12-dark-mode.html) |
+| `web17-simple-nodejs` | Simple Node.js App | [demo](https://msac-cisw.github.io/cisw17-demos/demos/web17-simple-nodejs.html) |
+| `web18-simple-typescript` | Simple TypeScript App | [demo](https://msac-cisw.github.io/cisw17-demos/demos/web18-simple-typescript.html) |
+| `docker01-simple-web` | Simple Webserver & PHP | [demo](https://msac-cisw.github.io/cisw17-demos/demos/docker01-simple-web.html) |
+| `py13-hello-flask` | Hello, Flask | [demo](https://msac-cisw.github.io/cisw17-demos/demos/py13-hello-flask.html) |
+
+---
+
 ## Project Structure
 
 ```
 .
-├── index.html                    ← Root page linking to all tutorials
+├── index.html                          ← Root page linking to all tutorials
 ├── tutorials/
-│   ├── 01-html-basics/
-│   │   └── index.html
-│   ├── 02-css-basics/
-│   │   └── index.html
-│   └── 03-js-basics/
-│       └── index.html
+│   ├── web00-basic-html/
+│   ├── web03-happy-sad/
+│   ├── web04-links/
+│   ├── web05-custom-homepage/
+│   ├── web06-simple-animations/
+│   ├── git-intro/
+│   ├── web09-quote-generator/
+│   ├── web10-silly-poem/
+│   ├── web11-rps/
+│   ├── web12-dark-mode/
+│   ├── web17-simple-nodejs/
+│   ├── web18-simple-typescript/
+│   ├── docker01-simple-web/
+│   └── py13-hello-flask/
 ├── .devcontainer/
-│   └── devcontainer.json         ← Codespaces configuration
-├── package.json                  ← Simple dev server & formatter
-└── README.md                     ← You are here!
+│   └── devcontainer.json               ← Codespaces configuration
+├── package.json                        ← Simple dev server & formatter
+└── README.md                           ← You are here!
 ```
 
 ---
