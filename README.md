@@ -7,25 +7,15 @@ Everything runs in your browser — no local install needed!
 
 ## Start Here (No VS Code Needed)
 
-### Step 1 — Make Your Own Copy
+### Step 1 — Open in Codespaces
 
-Click the button below (or the green **"Use this template"** button at the top of this page) to create your own copy under your GitHub account:
-
-👉 [**Use this template**](https://github.com/msac-cisw/Tutorials-Start-Here/generate)
-
-### Step 2 — Open in Codespaces
-
-In **your copy** of the repo:
-
-1. Click the green **Code** button.
-2. Select the **Codespaces** tab.
-3. Click **Create codespace on main**.
-
-Or use this shortcut to jump straight in:
+Click the link below to launch your own coding environment in your browser:
 
 👉 [**Open in Codespaces**](https://codespaces.new/msac-cisw/Tutorials-Start-Here)
 
-### Step 3 — Run Your Tutorials
+That's it! GitHub will create a personal workspace for you automatically. Wait for it to finish loading (this may take a minute the first time).
+
+### Step 2 — Run Your Tutorials
 
 Once the codespace finishes loading you have two options:
 
@@ -69,15 +59,6 @@ Once the codespace finishes loading you have two options:
 ├── package.json                  ← Simple dev server & formatter
 └── README.md                     ← You are here!
 ```
-
----
-
-## Useful Links
-
-| What | Link |
-|------|------|
-| Create your copy | [Use this template](https://github.com/msac-cisw/Tutorials-Start-Here/generate) |
-| Open in Codespaces | [codespaces.new/msac-cisw/Tutorials-Start-Here](https://codespaces.new/msac-cisw/Tutorials-Start-Here) |
 
 ---
 
